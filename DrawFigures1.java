@@ -31,4 +31,5 @@ public class DrawFigures1 {
         System.out.println("  /  \\");
         System.out.println(" /    \\");
     }
+	// this is a comment because i dont know if it goes outside or inside 
 }
